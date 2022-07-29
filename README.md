@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CordeiroArthur
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning JS, Java
+- 🌱 I’m currently learning JS, Java, TSQL, SQL
 - 📫 How to reach me ...
  agstcordeiro@gmail.com
 
