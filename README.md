@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CordeiroArthur
-- 👀 I’m interested in learning new languages
+- 👋 Hi, I’m Arthur Cordeiro
+- 👀 I’m interested in learning new languages and know new peoples
 - 🌱 I’m currently learning JS, Java, SQL
 - 📫 How to reach me ...
  agstcordeiro@gmail.com
