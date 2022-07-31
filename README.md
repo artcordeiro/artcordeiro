@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CordeiroArthur.CordeiroArthur" />
+  <img align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
+</h1>
+
  Olá, sou o Arthur!
 
 - Sistemas de Informação 
@@ -26,3 +31,10 @@ You can click the Preview link to take a look at your changes.
 
 
   ![Snake animation](https://github.com/CordeiroArthur/CordeiroArthur/blob/output/github-contribution-grid-snake.svg)
+
+
+<img height="10px" />
+
+<h1 align="center"></h1>
+
+![My Skills](https://skillicons.dev/icons?i=js,html,ts,git)
