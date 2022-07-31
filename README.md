@@ -1,7 +1,7 @@
                                                            Olá, sou o Arthur!
 
-- Sistemas de Informação 
-- <h4>Java<h4>,
+- Sistemas de Informação, 
+- Java,
 - JS,
 - SQL
 
