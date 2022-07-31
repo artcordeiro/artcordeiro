@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"></h1>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,ts,git)
+![My Skills](https://skillicons.dev/icons?i=js,java,ts,git)
