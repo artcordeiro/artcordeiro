@@ -1,7 +1,8 @@
 <h1 align="center">
+
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CordeiroArthur" />
-  <a href="https://github.com/CordeiroArthur"a>
-  <img align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
+  <img href=https://github.com/CordeiroArthur align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
+
 </h1>
 
 
@@ -44,4 +45,4 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center"></h1>
 
-![My Skills](https://skillicons.dev/icons?i=js,java,SQL,git)
+![My Skills](https://skillicons.dev/icons?i=js,java,git)
