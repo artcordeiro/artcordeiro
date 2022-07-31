@@ -1,8 +1,11 @@
 <h1 align="center">
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CordeiroArthur" />
-<a href="https://github.com/CordeiroArthur">
+
+  <a href="https://github.com/CordeiroArthur">
+
   <img align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
 </h1>
+</div>
 
 
 <img height="10px" />   
