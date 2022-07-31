@@ -3,6 +3,7 @@
   <img align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
 </h1>
 
+<a href="https://github.com/CordeiroArthur">
 <img height="10px" />   
 
                                                         Olá, sou o Arthur! 
