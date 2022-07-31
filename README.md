@@ -1,9 +1,18 @@
-                                                           Olá, sou o Arthur!
+<h1 align="center">
+  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=CordeiroArthur" />
+  <img align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
+</h1>
+
+<img height="10px" />   
+
+                                                        Olá, sou o Arthur! 
+
 
 - Sistemas de Informação, 
 - Java,
 - JS,
 - SQL
+
 
 </div>
 
