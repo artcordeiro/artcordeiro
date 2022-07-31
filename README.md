@@ -1,7 +1,7 @@
-                                                  <h4> Olá, sou o Arthur! <h4>
+                                                           Olá, sou o Arthur!
 
 - Sistemas de Informação 
-- Java,
+- <h4>Java<h4>,
 - JS,
 - SQL
 
