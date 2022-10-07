@@ -1,7 +1,7 @@
 <h1 align="center">
 
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=artcordeiro" />
-  <img href=https://github.com/artcordeiro align="right" src="https://img.shields.io/github/followers/CordeiroArthur?label=Follow&style=social" />
+  <img href=https://github.com/artcordeiro align="right" src="https://img.shields.io/github/followers/artcordeiro?label=Follow&style=social" />
 
 </h1>
 
