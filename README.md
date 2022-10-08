@@ -25,6 +25,11 @@
 </div>
 <div> 
  
+<img height="10px" />
+<h1 align="center"></h1>
+
+![My Skills](https://skillicons.dev/icons?i=js,java,git,vscode,figma,discord)
+
   <a href="https://account.microsoft.com/profile/?refd=outlook.live.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/marimiwwa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.spotify.com/br/account/profile/" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
@@ -32,8 +37,3 @@
  <a href="https://www.linkedin.com/in/mmiwwa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   </div>
-<img height="10px" />
-
-<h1 align="center"></h1>
-
-![My Skills](https://skillicons.dev/icons?i=js,java,git,vscode,figma,discord)
