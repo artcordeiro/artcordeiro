@@ -11,13 +11,6 @@
 
                                                         Olá, sou o Arthur! 
 
-
-- Sistemas de Informação, 
-- Java,
-- JS,
-- SQL
-
-
 </div>
 
 <div style="display: inline_block"><br>
