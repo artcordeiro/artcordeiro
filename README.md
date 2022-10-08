@@ -26,6 +26,7 @@
 <div> 
  
 <img height="10px" />
+
 <h1 align="center"></h1>
 
 ![My Skills](https://skillicons.dev/icons?i=js,java,git,vscode,figma,discord)
